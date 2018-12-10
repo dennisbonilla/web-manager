@@ -61,6 +61,9 @@ Dentro del software que se debe tener instalado para trabajar a nivel de Front-E
 ![Image](https://raw.githubusercontent.com/dennisbonilla/web-manager/master/repo-img/gulp.png)
 * Gulp
 
+<div style="width:300px; height: 300px;">
+![Image](https://raw.githubusercontent.com/dennisbonilla/web-manager/master/repo-img/yeoman.png)
+</div>
 * Yeoman
 * Webapp(Generador de Yeoman)
 

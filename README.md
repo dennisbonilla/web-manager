@@ -65,14 +65,12 @@ Dentro del software que se debe tener instalado para trabajar a nivel de Front-E
 ![Image](https://raw.githubusercontent.com/dennisbonilla/web-manager/master/repo-img/yeoman.png)
 </div>
 * Yeoman
-<br/>
-<div style="width:300px; height: 300px;">
+
+<div style="width:600px; height: 250px; margin-bottom: 0px;">
+<br>
 ![Image](https://raw.githubusercontent.com/dennisbonilla/web-manager/master/repo-img/webapp.png)
 * Webapp(Generador de Yeoman)
 </div>
-
-
-
 
 ```
 Give examples

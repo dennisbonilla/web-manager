@@ -67,8 +67,6 @@ Dentro del software que se debe tener instalado para trabajar a nivel de Front-E
 
 
 
-
-
 ```
 Give examples
 ```

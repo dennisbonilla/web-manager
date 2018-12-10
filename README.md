@@ -54,8 +54,13 @@ El proyeto al correr abrirá una ventana en el navegador con la pagina inicial d
 
 Dentro del software que se debe tener instalado para trabajar a nivel de Front-End es:
 
+![Image](https://raw.githubusercontent.com/dennisbonilla/web-manager/master/repo-img/nodejs-logo.png)
+
 * NodeJs
+
+![Image](https://raw.githubusercontent.com/dennisbonilla/web-manager/master/repo-img/gulp.png)
 * Gulp
+
 * Yeoman
 * Webapp(Generador de Yeoman)
 

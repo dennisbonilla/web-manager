@@ -1,4 +1,4 @@
-
+![Image](https://raw.githubusercontent.com/dennisbonilla/web-manager/master/repo-img/una-logo.png)
 ESCUELA DE INFORMATICA UNA.<BR/>
 CURSO: EIF409 APLICACIONES INFORMATICAS GLOBALES.
 
@@ -69,32 +69,6 @@ Dentro del software que se debe tener instalado para trabajar a nivel de Front-E
 ![Image](https://raw.githubusercontent.com/dennisbonilla/web-manager/master/repo-img/webapp.png)
 * Webapp(Generador de Yeoman)
 
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
 
 ## Authors
 

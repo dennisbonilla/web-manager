@@ -6,7 +6,7 @@ CURSO: EIF409 APLICACIONES INFORMATICAS GLOBALES.
 ESTUDIANTES:
 
 Dennis Bonilla Ramírez.<br>
-Leonardo Hidalgo.<br>
+Leonardo Hidalgo Fonseca.<br>
 Nathalia Ovares.<br>
 Eithan Méndez Méndez.<br>
 Didier Ocampo Martínez.<br>

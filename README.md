@@ -48,7 +48,8 @@ El proyeto al correr abrirá una ventana en el navegador con la pagina inicial d
 
 #### Configuración para el Back-End.
 
--- sección en construcción.
+- Para esta sección usaremos el framework Yii, se adjuntará un link a un tutorial paso a paso de como instalar dicho framework
+ para usaurios que usan XAMPP : https://drive.google.com/open?id=1VqKQhnjGbcMCSpoYllGjMMGoTnDribiL
 
 ### Pre-requisitos.
 #### Pre-requisitos Front-End

@@ -3,17 +3,16 @@
 $this->title = 'Web Manager';
 ?>
 <div class="site-index">
-
     <div class="jumbotron">
         <img src='<?php echo Yii::$app->request->baseUrl."/img/web-manager-logo.png"; ?>' class="image-responsive"/>
-        <h1>Welcome to Web Manager!</h1>
+        <h2>Welcome!</h2>
         <p class="lead">The tool for every team and project manager.</p>
-        <p><a class="btn btn-lg btn-success" href="https://github.com/dennisbonilla/web-manager">Tool's Github</a></p>
+        <p><a class="btn btn-lg btn-success wm-btn-one" href="https://github.com/dennisbonilla/web-manager">Tool's Github</a></p>
     </div>
     <div class="body-content">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2>Web-Manager</h2>
+                <h3><?php echo Yii::$app->name ?></h3>
                 <p>A powerful tool to control the creation of new projects within a company, managers would be able to request
                    workers that better suit the needs of an emergent project based on the skills required for each position,
                    the user also would have the information of all employees categorized by their disciplinaries areas,

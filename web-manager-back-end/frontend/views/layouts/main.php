@@ -28,8 +28,9 @@ AppAsset::register($this);
 
 <div class="wrap">
     <?php
+    $logoSource = "/img/web-manager-logo-icon.png";
     NavBar::begin([
-        'brandLabel' => Yii::$app->name,
+        'brandLabel' => '<img src="'.Yii::$app->request->baseUrl.$logoSource.'"class="pull-left"/>Web Manager',
         'brandUrl' => Yii::$app->homeUrl,
         'options' => [
             'class' => 'navbar-inverse navbar-fixed-top',

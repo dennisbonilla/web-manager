@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="13.3">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>30</x>
+      <y>30</y>
+      <w>960</w>
+      <h>700</h>
+    </coordinates>
+    <panel_attributes>Tab title : WEB MANAGER.
+--</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>40</x>
+      <y>60</y>
+      <w>260</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>LOGO</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>40</x>
+      <y>100</y>
+      <w>260</w>
+      <h>620</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>310</x>
+      <y>100</y>
+      <w>670</w>
+      <h>620</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>50</x>
+      <y>150</y>
+      <w>240</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>INFORMACION</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>50</x>
+      <y>190</y>
+      <w>240</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>DASHBOARD</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>50</x>
+      <y>110</y>
+      <w>240</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>INICIO</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>310</x>
+      <y>60</y>
+      <w>670</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLHierarchy</id>
+    <coordinates>
+      <x>50</x>
+      <y>230</y>
+      <w>240</w>
+      <h>400</h>
+    </coordinates>
+    <panel_attributes>type=Package
+PROYECTO 1
+	PM
+	Design
+	QA
+	Dev
+PROYECTO 2
+	PM
+	Design
+	QA
+	Dev</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>410</x>
+      <y>240</y>
+      <w>150</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>btn: Ver detalles</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>320</x>
+      <y>110</y>
+      <w>320</w>
+      <h>190</h>
+    </coordinates>
+    <panel_attributes>NOMBRE PROYECTO 
+--
+
+ Nombre Proyecto:     Proyecto 1
+
+ Fecha Inicio:             dd-mm-yy </panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>740</x>
+      <y>240</y>
+      <w>150</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>btn: Ver detalles</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>410</x>
+      <y>440</y>
+      <w>150</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>btn: Ver detalles</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>740</x>
+      <y>440</y>
+      <w>150</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>btn: Ver detalles</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>410</x>
+      <y>640</y>
+      <w>150</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>btn: Ver detalles</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>740</x>
+      <y>640</y>
+      <w>150</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>btn: Ver detalles</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>320</x>
+      <y>310</y>
+      <w>320</w>
+      <h>190</h>
+    </coordinates>
+    <panel_attributes>NOMBRE PROYECTO 
+--
+
+ Nombre Proyecto:     Proyecto 1
+
+ Fecha Inicio:             dd-mm-yy </panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>650</x>
+      <y>110</y>
+      <w>320</w>
+      <h>190</h>
+    </coordinates>
+    <panel_attributes>NOMBRE PROYECTO 
+--
+
+ Nombre Proyecto:     Proyecto 1
+
+ Fecha Inicio:             dd-mm-yy </panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>650</x>
+      <y>310</y>
+      <w>320</w>
+      <h>190</h>
+    </coordinates>
+    <panel_attributes>NOMBRE PROYECTO 
+--
+
+ Nombre Proyecto:     Proyecto 1
+
+ Fecha Inicio:             dd-mm-yy </panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>320</x>
+      <y>510</y>
+      <w>320</w>
+      <h>190</h>
+    </coordinates>
+    <panel_attributes>NOMBRE PROYECTO 
+--
+
+ Nombre Proyecto:     Proyecto 1
+
+ Fecha Inicio:             dd-mm-yy </panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>650</x>
+      <y>510</y>
+      <w>320</w>
+      <h>190</h>
+    </coordinates>
+    <panel_attributes>NOMBRE PROYECTO 
+--
+
+ Nombre Proyecto:     Proyecto 1
+
+ Fecha Inicio:             dd-mm-yy </panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>

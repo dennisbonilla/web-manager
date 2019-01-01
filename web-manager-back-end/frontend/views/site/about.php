@@ -9,7 +9,6 @@ $this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="site-about">
     <h1><?= Html::encode($this->title) ?></h1>
-
     <p>ESCUELA DE INFORMATICA UNA.
        CURSO: EIF409 APLICACIONES INFORMATICAS GLOBALES.
        <br>
@@ -19,7 +18,7 @@ $this->params['breadcrumbs'][] = $this->title;
         <br>Leonardo Hidalgo Fonseca.
         <br>Nathalia Ovares.
         <br>Eithan Méndez Méndez.
-        <br> Didier Ocampo Martínez.
+        <br>Didier Ocampo Martínez.
         <br>Yaudi Somarribas Araya.</p>
 
     <code><?= __FILE__ ?></code>

@@ -20,4 +20,7 @@ class AppAsset extends AssetBundle
         'yii\web\YiiAsset',
         'yii\bootstrap\BootstrapAsset',
     ];
+    public $img = [
+        'img/web-manager-logo.png',
+    ];
 }

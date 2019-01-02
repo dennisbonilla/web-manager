@@ -12,6 +12,7 @@ DROP TABLE IF EXISTS `bd_globales`.`tabla_Usuario` ;
 CREATE TABLE IF NOT EXISTS `bd_globales`.`tabla_Usuario`(
     `id_Usuario`        VARCHAR(45) NOT NULL,
     `nombre_Usuario`    VARCHAR(45) NOT NULL,
+    `password`          VARCHAR(10) NOT NULL,
     `apellido_Usuario`  VARCHAR(45) NOT NULL,
     `puesto_Usuario`    VARCHAR(45) NOT NULL,
     `tipo_Usuario`      VARCHAR(45) NOT NULL,
